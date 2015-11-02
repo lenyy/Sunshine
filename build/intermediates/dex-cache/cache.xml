@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-37fe890d8688b41cdc1f0baa2b436c5d172d7da6.jar" />
+    </item>
+    <item
+        jar="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-605cc7118332696d8f2207e6ca2ab5ac2875f4f6.jar" />
+    </item>
+    <item
+        jar="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-fcf3695a6e542ea7ec167f09b7c6757684a78dab.jar" />
+    </item>
+    <item
+        jar="/home/pedro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/pedro/Desktop/Android/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-016aa180c0d41ca72bf3725bdcad18e5d648330f.jar" />
+    </item>
+
+</items>
